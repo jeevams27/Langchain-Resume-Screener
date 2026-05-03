@@ -132,23 +132,4 @@ python-dotenv
 - **Environment variables** — never hardcode API keys
 
 ---
-
-## 🔮 Planned Improvements
-
-- [ ] Support multiple resume uploads — batch screening
-- [ ] Save history of past screenings
-- [ ] Switch between Groq / Ollama (local, fully offline)
-- [ ] Export report as PDF
-
----
-
-## 👤 Author
-
-**Jeeva R** — B.Tech AI & Data Science, Saveetha Engineering College (2025)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
-
----
-
 *Built to learn LangChain — and to solve a real problem I face every day as a fresher job hunter.*
